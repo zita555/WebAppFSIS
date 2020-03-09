@@ -16,7 +16,7 @@
             <asp:Label id="PlayerID" runat="server" ></asp:Label>
             <br />
             <asp:Label runat="server" Text="Description:"></asp:Label>&nbsp;&nbsp;
-            <asp:Label id="PlayerDescription" runat="server" ></asp:Label>
+            <asp:Label id="AlbertaHealthCareNumber" runat="server" ></asp:Label>
         </div>
     </div>
 </asp:Content>
